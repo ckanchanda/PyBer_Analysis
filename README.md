@@ -10,7 +10,9 @@ summary line chart of the total weekly fares by each city type.
 Based on the PyBer summary DataFrame
 ![](analysis/PyBer_summary_df.PNG)
 	* Urban cities have the highest rider and driver count while rural cities have the least. 
+	
 	* The total fares decreases as the size of the city type decreases. 
+	
 	* The Average fare per ride and per driver is highest in rural cities and lowest in urban cities. 
 
 ## Summary
