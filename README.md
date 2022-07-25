@@ -7,7 +7,7 @@ summary line chart of the total weekly fares by each city type.
 
 ## Results
 
-Based on the PyBer summary DataFrame
+Based on the PyBer summary DataFrame:
 ![](analysis/PyBer_summary_df.PNG)
 	
 	* Urban cities have the highest rider and driver count while rural cities have the least. 
@@ -18,6 +18,6 @@ Based on the PyBer summary DataFrame
 
 ## Summary
 ![](analysis/PyBer_fare_summary.PNG)
-To adress the disparities among city types and boost ridership in all cities, PyBer can: decrease the 
+To adress the disparities among city types and boost ridership in all cities, PyBer can decrease the 
 prices in fare per ride in rural and suburban cities to make ride-sharing more affordable to riders and 
 increase the amount of drivers in rural and suburban cities.
